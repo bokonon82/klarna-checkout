@@ -25,7 +25,6 @@
     merchant: {
       id: null,
       terms_uri: null,
-      cancellation_terms_uri: null,
       checkout_uri: null,
       confirmation_uri: null,
       push_uri: null
